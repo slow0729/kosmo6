@@ -10,6 +10,7 @@
 	<fieldset>
 		<legend>쿠키</legend>
 		<h2>쿠키 설정하기</h2>
+		<li>ggggggggggggggggggg</li>
 		<%
 		//1]쿠키 객체 생성 : new Cookie("쿠키명","쿠기값");
 		//쿠키명 설정하는 setName()이 없다 반드시 생성자로 쿠키명 설정
