@@ -7,6 +7,6 @@
 <title>test.jsp</title>
 </head>
 <body>
-
+	<h2>test삭제</h2>
 </body>
 </html>
