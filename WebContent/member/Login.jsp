@@ -8,5 +8,8 @@
 </head>
 <body>
 	<h2>로그인/회원가입</h2>
+	<form action="">
+		<input type="text"/>
+	</form>
 </body>
 </html>
